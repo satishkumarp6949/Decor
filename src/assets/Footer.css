@@ -1,0 +1,19 @@
+.footer a:hover {
+  color: #ffc107; /* Yellow hover */
+  text-decoration: none;
+}
+
+.footer i {
+  transition: transform 0.2s ease;
+}
+
+.footer i:hover {
+  transform: scale(1.2);
+}
+.footer{
+    background-color: #3f0f5a;
+
+}
+.footers{
+    color: #f9d9c9;
+}

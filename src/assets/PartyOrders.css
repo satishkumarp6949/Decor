@@ -1,0 +1,44 @@
+.party-orders-container {
+  padding: 3rem 1rem;
+  background-color: #f8f9fa; /* light background */
+  min-height: 100vh;
+}
+
+.party-orders-title {
+  color: #4a148c; /* deep purple */
+  font-weight: bold;
+}
+
+.party-orders-description {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  color:black;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.custom-grey-btn {
+ background-color: transparent;
+  border-color: #6a0dad;
+  color:#6a0dad;
+}
+
+.custom-grey-btn:hover {
+  background-color: #6a0dad;
+  color: white;
+}
+.party-orders-container{
+      width:100vw;
+  margin-left: cal(-50vw + 50%);
+
+
+}

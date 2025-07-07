@@ -1,0 +1,21 @@
+   .navbar-custom {
+      background-color: #3f0f5a;
+    }
+    .nav-link, .navbar-brand {
+      color: #f9d9c9 !important;
+    }
+    .nav-link.active {
+      font-weight: 600;
+    }
+/*  Tablet View: max-width 650px */
+@media (max-width: 650px) {
+  .navbar-custom {
+    padding: 15px;
+  }}
+
+/*  Mobile View: max-width 450px */
+@media (max-width: 450px) {
+  .navbar-custom {
+    padding: 10px;
+    text-align: center;
+  }}

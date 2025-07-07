@@ -1,0 +1,18 @@
+.hero-section {
+  background: linear-gradient(to right, #6a0dad, #b185e3);
+  color: white;
+  min-height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  padding-top:70px;
+  overflow-x:hidden ;
+}
+.full-width-section{
+  width:100vw;
+  margin-left: cal(-50vw + 50%);
+  padding-left: 2rem;
+  padding: 2rem;
+}
